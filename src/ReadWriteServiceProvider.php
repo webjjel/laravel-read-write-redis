@@ -14,7 +14,7 @@ class ReadWriteServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Cache::extend('redis_read_write', function ($app, $config) {
+        Cache::extend('redis-read-write', function ($app, $config) {
             $connection = $config['connection'] ?? ['write' => 'write', 'read'  => 'read'];
             $prefix     = $config['prefix'] ?? $app['config']['cache.prefix'];
 
