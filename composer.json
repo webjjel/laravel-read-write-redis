@@ -1,6 +1,7 @@
 {
   "name": "webjjel/laravel-read-write-redis",
   "description": "Using Read/Write Redis connection for Laravel",
+  "version": "0.1.0",
   "keywords": [
     "webjjel",
     "laravel-read-write-redis",
