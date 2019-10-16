@@ -40,10 +40,11 @@ and then set the redis connection in `config/cache.php`
 'stores' => [
     'redis-read-write' => [
         'driver' => 'redis-read-write',
-        'connection' => [
-            'write' => 'write',
-            'read'  => 'read',
-        ],
+        // If you want to change connection name, edit below configuration.
+        // 'connection' => [
+        //     'write' => 'write',
+        //     'read'  => 'read',
+        // ],
     ],
 ]
 ```
