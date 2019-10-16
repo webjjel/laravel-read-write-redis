@@ -5,7 +5,7 @@ namespace Webjjel\ReadWriteRedis;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Cache;
 
-class ReadWriteServiceProvider extends ServiceProvider
+class ReadWriteRedisServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
