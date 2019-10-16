@@ -7,6 +7,7 @@ The `webjjel/laravel-read-write-redis` package provides read/write connection fo
 
 ## Installation
 PHP 7.1 and Laravel 5.8 or higher are required.
+
 You can install the package via composer:
 ``` bash
 composer require webjjel/laravel-read-write-redis
