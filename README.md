@@ -1,4 +1,4 @@
-## Laravel Read/Write Redis
+## Laravel Read/Write Connection for Redis
 [![Packagist License](https://poser.pugx.org/webjjel/laravel-read-write-redis/license.png)](http://choosealicense.com/licenses/mit/)
 [![Latest Stable Version](https://poser.pugx.org/webjjel/laravel-read-write-redis/version.png)](https://packagist.org/packages/webjjel/laravel-read-write-redis)
 [![Total Downloads](https://poser.pugx.org/webjjel/laravel-read-write-redis/d/total.png)](https://packagist.org/packages/webjjel/laravel-read-write-redis)
