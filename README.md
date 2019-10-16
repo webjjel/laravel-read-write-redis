@@ -3,7 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/webjjel/laravel-read-write-redis/version.png)](https://packagist.org/packages/webjjel/laravel-read-write-redis)
 [![Total Downloads](https://poser.pugx.org/webjjel/laravel-read-write-redis/d/total.png)](https://packagist.org/packages/webjjel/laravel-read-write-redis)
 
-The `webjjel/laravel-read-write-redis` package provides ...
+The `webjjel/laravel-read-write-redis` package provides read/write connection for redis.
 
 ## Installation
 You can install the package via composer:
